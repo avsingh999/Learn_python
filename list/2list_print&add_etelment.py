@@ -12,3 +12,6 @@ print(List[4:])
 
 print(List[-2])
 
+#add element
+List[1:2]=["hello","python"]
+print(List)
