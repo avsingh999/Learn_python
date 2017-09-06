@@ -1,4 +1,4 @@
-st="234"
+st="23abcd4"
 
 print(st,"->isnum: ",st.isalnum())
 
