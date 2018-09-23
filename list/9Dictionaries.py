@@ -8,3 +8,7 @@ print(thisdict)
 print(thisdict["name"])
 
 print(thisdict.get("name"))
+
+thisdict["color"] = "red"
+
+print(thisdict)
